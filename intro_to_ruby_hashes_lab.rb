@@ -1,4 +1,6 @@
 def instantiating
-	hash = {}
-	return hash
+	hash = {
+		
+	}
+
 end
