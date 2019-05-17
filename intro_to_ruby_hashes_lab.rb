@@ -5,3 +5,9 @@ end
 def actor
 	hash = {name: "Dwayne The Rock Johnson"}
 end
+
+
+def monopoly
+	monopoly_hash = {railroads: "1"}
+
+end
