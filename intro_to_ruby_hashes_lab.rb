@@ -1,4 +1,4 @@
 def instantiating
 	hash = {}
-	returnhash
+	return hash
 end
