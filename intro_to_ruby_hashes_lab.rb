@@ -1,3 +1,3 @@
 def instantiating
-	new_hash = {}
+	hash => {}
 end
