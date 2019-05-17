@@ -1,6 +1,6 @@
-def instantiating
+def new_hash
 	hash = {
-		
+
 	}
 
 end
