@@ -8,5 +8,5 @@ end
 
 
 def monopoly
-	monopoly_hash = {railroads: "1"}
+	monopoly_hash = {railroads: " "}
 end
